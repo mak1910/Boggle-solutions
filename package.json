@@ -1,0 +1,17 @@
+{
+  "name": "boggle",
+  "version": "1.0.0",
+  "description": "Get all possible words",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mridul Kothari",
+  "license": "ISC",
+  "dependencies": {
+    "an-array-of-english-words": "^1.0.1",
+    "fs": "0.0.2",
+    "object-sizeof": "^1.0.10",
+    "readline-sync": "^1.4.1"
+  }
+}
