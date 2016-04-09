@@ -113,7 +113,7 @@ while(true) {
 	}
 	console.log("Enter 'again' to run test again with a different n.");
 	console.log("Enter a number between 1 to 28 to print all possible word combinations of that length.");
-	console.log("Enter 0 to print all numbers.");
+	console.log("Enter 0 to print all words.");
 	console.log("Enter 'quit' to exit.")
 	var choice = readlineSync.question('? : ');
 	if( choice == 'again' ) {
